@@ -14,4 +14,6 @@ Always on the lookout for new challenges and opportunities to improve my skills.
 
 ---
 
-> "People are asleeo; they wake up when they die."
+
+ 
+ # "People are asleep; they wake up when they die."
