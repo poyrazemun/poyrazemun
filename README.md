@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**poyrazemun/poyrazemun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Development Engineer in Test** who enjoys chilling and personal growth.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- 🔧 **Languages**: Java, JavaScript, Python
+- 🛠️ **Tools**: Selenium, TestNG, Git, Jenkins, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Personal Growth
+Always on the lookout for new challenges and opportunities to improve my skills.
+
+## 📫 Contact Me
+- Email: ofatih-poyraz@hotmail.com
+
+---
+
+> "People are asleeo; they wake up when they die."
