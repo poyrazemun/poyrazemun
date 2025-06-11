@@ -6,4 +6,4 @@ Always on the lookout for new challenges and opportunities to improve my skills.
 ## 📫 Contact Me
 - Email: ofatih-poyraz@hotmail.com
 
-### "People are asleep; they wake up when they die."
+
