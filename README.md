@@ -1,10 +1,13 @@
-# Hello!
+## Hello
 
-I'm a **Software Development Engineer in Test** by profession. I write automation frameworks, break things on purpose, and make sure CI pipelines don't lie to you
+I build test automation frameworks.  
+Selenium, TestNG, Cucumber on the Java side - moving fast into Python, pytest, behave.
 
-Also been going deep into AI tooling lately - not just using it, actually building with it. Keeps things interesting.
+Lately focusing on video compression technologies.
 
-## 📫 Contact Me
+---
+
+## Contact
 - Email: ofatih-poyraz@hotmail.com
 
 
